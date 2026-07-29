@@ -1,7 +1,7 @@
 {
   "detector": "venue_date",
   "movie": "Spider-Man: Brand New Day",
-  "requested_date": "20260802",
+  "requested_date": "20260801",
   "venue_code": "IOSE",
   "venue_label": "INOX: Selvam Square, Vellore",
   "url_template": "https://in.bookmyshow.com/movies/vellore/spider-man-brand-new-day/buytickets/ET00447840/{date}",
