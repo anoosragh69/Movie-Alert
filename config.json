@@ -1,9 +1,9 @@
 {
   "detector": "venue_date",
   "movie": "Spider-Man: Brand New Day",
-  "requested_date": "20260730",
-  "venue_code": "INTO",
-  "venue_label": "INOX: The Marina Mall, OMR",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/spiderman-brand-new-day/buytickets/ET00502600/{date}",
+  "requested_date": "20260802",
+  "venue_code": "IOSE",
+  "venue_label": "INOX: Selvam Square, Vellore",
+  "url_template": "https://in.bookmyshow.com/movies/vellore/spider-man-brand-new-day/buytickets/ET00447840/{date}",
   "min_references": 10
 }
