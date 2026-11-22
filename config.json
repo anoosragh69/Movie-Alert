@@ -1,9 +1,8 @@
 {
   "detector": "venue_date",
-  "movie": "Spider-Man: Brand New Day",
-  "requested_date": "20260802",
-  "venue_code": "IOSE",
-  "venue_label": "INOX: Selvam Square, Vellore",
-  "url_template": "https://in.bookmyshow.com/movies/vellore/spider-man-brand-new-day/buytickets/ET00447840/{date}",
-  "min_references": 10
+  "movie": "Dune: Part Three (IMAX 2D)",
+  "requested_date": "20261222",
+  "venue_code": "PLTD",
+  "venue_label": "PVR: Lulu, Trivandrum",
+  "url_template": "https://in.bookmyshow.com/movies/thiruvananthapuram-trivandrum/dune-part-three/buytickets/ET00526290/{date}"
 }
